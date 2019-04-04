@@ -14,4 +14,7 @@ cout<<173037;
 
 int main () {
 	//TODO
+printMyName ();
+printMyIndex ();
+
 }
