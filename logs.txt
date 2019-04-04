@@ -1,0 +1,5 @@
+commit 3d2e4764b6523514473ba8ca3137c2ad54fa4810 (HEAD -> logs, origin/master, master)
+Author: unknown <benik.veronika@gmail.com>
+Date:   Thu Apr 4 09:39:29 2019 +0200
+
+    Initial commit
